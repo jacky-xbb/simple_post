@@ -1,4 +1,14 @@
 # README
 
+## Screenshots
 
-L2 Assigmnet of [Practical Ruby on Rails Course](https://school.mixandgo.com/)
+![Dashboard](https://raw.githubusercontent.com/jacky-xbb/pics/main/uPic/Nj00Xh.png)
+
+
+## Setup
+```shell
+bundle install
+rails db:create db:migrate
+rails db:seed
+```
+
